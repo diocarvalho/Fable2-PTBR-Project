@@ -19,8 +19,9 @@ O jogo está 100% traduzido, mas esta é a **primeira versão pública**.
 3. Substitua a pasta `data` original pelos arquivos do patch.
 
 ### 🐞 Reporte de Erros
-Se encontrar algo bizarro, me dá um toque no tópico do **Romhacking.net.br** ou abra uma **Issue** aqui.
-Mande o print, o local (ex: Bowerstone) e o que estava acontecendo na hora.
+Se encontrar algo bizarro, me dá um toque no tópico do [:link:](https://www.romhacking.net.br/index.php?topic=3269.0)**Romhacking.net.br** ou abra uma **Issue** aqui.
+
+Mande o print do problema.
 
 ---
 **Créditos:** Dio Carvalho
