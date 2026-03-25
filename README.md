@@ -5,7 +5,7 @@ Tradução completa de Fable II, incluindo todas as DLCs e os Pub Games.
 Este projeto nasceu da necessidade de uma ferramenta eficiente para manipular os arquivos `.babel` da Lionhead. Desenvolvi um software próprio em C# (que será aberto em breve) para garantir a integridade dos 56 mil textos do jogo.
 
 ### ⚠️ Status do Beta
-O jogo está 100% traduzido, mas esta é a **primeira versão pública**. 
+O jogo está 100% traduzido, mas esta é a **seguda versão pública**. 
 - **O que falta:** Revisão fina de gameplay. 
 - **Bugs esperados:** Concordância de gênero (ex: "Joana, Vendedor"), textos saindo da caixa ou variáveis aparecendo no lugar de strings.
 
