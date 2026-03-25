@@ -1,4 +1,4 @@
-# Fable II PT-BR - Projeto Dio Carvalho (v0.9.0-BETA)
+# Fable II PT-BR - Projeto Dio Carvalho (v0.9.1-BETA)
 
 Tradução completa de Fable II, incluindo todas as DLCs e os Pub Games. 
 
