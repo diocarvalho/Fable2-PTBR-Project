@@ -1,0 +1,184 @@
+Hash;Original;Tradução
+"12d1b73";"Hero's Chickens Kicked: %1
+Henchman's Chickens Kicked: %2
+
+Hero's Flit Switches Hit: %3
+Henchman's Flit Switches Hit: %4
+
+Hero's Highest Multiplier: x%5
+Henchman's Highest Multiplier: x%6";"Galinhas Chutadas do Herói: %1
+Galinhas Chutadas do Capanga: %2
+
+Interruptores de Voo do Herói Acionados: %3
+Interruptores de Voo do Capanga Acionados: %4
+
+Maior Multiplicador do Herói: x%5
+Maior Multiplicador do Capanga: x%6"
+"1b678eb";"Henchman Wins";"Capanga Vence"
+"74b7909";"Colosseum Model";"Maquete do Coliseu"
+"9f3d02f";"Henchman's High Score: %1";"Pontuação Máxima do Capanga: %1"
+"9f471da";"That's quite remarkable. Another successful exorcism!";"Isso é realmente notável. Mais um exorcismo bem-sucedido!"
+"af62180";"That skull'll make a perfect paperweight. Lovely stuff.";"Esse crânio vai servir como um peso de papel perfeito. Que beleza."
+"b875ac3";"Now, as much I would love to hand it over for free, I can't accept less than the full amount in solid gold. I have a reputation to maintain.";"Agora, por mais que eu adoraria entregar de graça, não posso aceitar menos do que o valor total em ouro maciço. Tenho uma reputação a zelar."
+"c5bbbba";"Total High Score: %1";"Pontuação Total Alta: %1"
+"eac5745";"The Colosseum
+
+Welcome to the Colosseum, the legendary combat arena built by the Theodore triplets.
+Score as many points as you can within the allotted time. Earn points by killing creatures and build multipliers by hitting Flitswitches. You can also earn bonus points by kicking chickens.
+The following rules apply:
+You may not use potions or change any inventory items during combat, so use the time before and after fights wisely.
+If you are knocked down, your multiplier will be reset.
+Good luck, and may the Colosseum Teddies guide your hand.";"O Coliseu
+
+Bem-vindo ao Coliseu, a lendária arena de combate construída pelos trigêmeos Theodore.
+Marque o máximo de pontos que puder dentro do tempo limite. Ganhe pontos matando criaturas e acumule multiplicadores acionando os Interruptores. Você também pode ganhar pontos de bônus chutando galinhas.
+As seguintes regras se aplicam:
+Você não pode usar poções ou alterar itens do inventário durante o combate, então use o tempo antes e depois das lutas com sabedoria.
+Se você for derrubado, seu multiplicador será zerado.
+Boa sorte, e que os Ursos de Pelúcia do Coliseu guiem sua mão."
+"1324beb4";"Henchman's Score (x%1): %2";"Pontuação do Capanga (x%1): %2"
+"13ecc28f";"These are your men. Loyal soldiers who would die for you. Many already have, on battlefields at home and in faraway lands.";"Estes são os seus homens. Soldados leais que morreriam por você. Muitos já morreram, em campos de batalha em casa e em terras distantes."
+"14ecc462";"They would follow you wherever you lead.";"Eles te seguiriam aonde quer que você fosse."
+"16eebdfb";"It is many years from now. You feel age weighing you down. And the responsibility of an entire kingdom.";"Muitos anos se passaram. Você sente o peso da idade. E a responsabilidade de um reino inteiro."
+"17eb8778";"This is the real future. Your child, not yet born, but destined for greatness.";"Este é o verdadeiro futuro. Seu filho, ainda não nascido, mas destinado à grandeza."
+"1b584125";"Battle your way through the Colosseum, and try to get the highest score you can.";"Lute no Coliseu e tente alcançar a maior pontuação possível."
+"1c1833d2";"This rare bear represents the eldest of the three founding brothers of the Colosseum, Augustus Theodore. There are two numbers tattooed on its fur. An eight and a five.";"Este urso raro representa o mais velho dos três irmãos fundadores do Coliseu, Augusto Teodoro. Há dois números tatuados em sua pelagem. Um oito e um cinco."
+"1fb3f136";"This cuddly bear represents the most talented of the three founding brothers of the Colosseum, Alvin Theodore. He was an accomplished magic user, and perhaps the two numbers sewn into his wizard's hat are part of some numerical spell. They are one and a nine.";"Este ursinho de pelúcia representa o mais talentoso dos três irmãos fundadores do Coliseu, Alvin Theodore. Ele era um mago habilidoso, e talvez os dois números costurados em seu chapéu de mago façam parte de algum feitiço numérico. São um e nove."
+"21640370";"And don't forget to browse my wares. It's not all tat!";"E não se esqueça de dar uma olhada nos meus produtos. Não é tudo quinquilharia!"
+"244ff55b";"New Hero High Score";"Nova Pontuação Máxima de Herói"
+"2623ef95";"Congratulations, you have found one of the three Theodore bears. Can you find the other two?";"Parabéns, você encontrou um dos três ursos Theodore. Consegue encontrar os outros dois?"
+"272b5f0c";"You have found another Theodore bear! Just one more remains.";"Você encontrou outro urso Theodore! Só falta mais um."
+"272b6a42";"Hero Wins";"Herói Vence"
+"2823a50e";"Well done! You've found all three Theodore bears! You have earned the Colosseum's special prizes. Have a drink on us, and a little something else...";"Muito bem! Você encontrou os três ursos Theodore! Você ganhou os prêmios especiais do Coliseu. Tome uma bebida por nossa conta e ganhe mais uma coisinha..."
+"2c73817c";"Best of luck with that. And don't let anyone know I let you have it for free. You can just imagine what that would do to my reputation.";"Boa sorte com isso. E não conte a ninguém que eu te dei de graça. Você pode imaginar o estrago que isso faria na minha reputação."
+"30c1a829";"As will the fate of Aurora.";"Assim como o destino de Aurora."
+"31bae5a8";"Third Prize";"Terceiro Prêmio"
+"32c03f3b";"Yet none of this is of the least importance.";"Mas nada disso é da menor importância."
+"33bd1578";"A child on whom the fate of Albion will depend one day.";"Uma criança de quem o destino de Albion dependerá um dia."
+"35dad613";"A CUDDLY TOY!";"UM BRINQUEDO DE PELÚCIA!"
+"41897837";""AAA" Teddy Trophy";""AAA" Troféu Teddy"
+"45894ad8";"Second Prize";"Segundo Prêmio"
+"45a8e5da";"Hero's Creature Kills: %1";"Criatura do Herói Mata : %1"
+"4b32b40f";"Colosseum Scores
+
+%1 points - Ultimate Prize
+%2 points - First Prize
+%3 points - Second Prize
+%4 points - Third Prize
+
+Keep trying! There's a different prize each time, at least until we run out of prizes, and you will win one gold for each point scored.";"Pontuação do Coliseu 
+
+%1 pontos - Prêmio Supremo 
+%2 pontos - Primeiro Prêmio 
+%3 pontos - Segundo Prêmio 
+%4 pontos - Terceiro Prêmio 
+
+ Continue tentando! Há um prêmio diferente a cada tentativa, pelo menos até que os prêmios acabem, e você ganhará um ouro para cada ponto marcado."
+"50857eb8";"As will that of lands not yet discovered.";"Assim como o de terras ainda não descobertas."
+"50a9f437";"If you want to access Murgo's caravan and its astounding items, you will need to purchase the premium downloadable content. Press <x_img> to buy it now.";"Se você quiser acessar a caravana de Murgo e seus itens incríveis, precisará comprar o conteúdo premium para download. Pressione <x_img> para comprá-lo agora."
+"520c5f15";"Fight!";"Lute!"
+"55090870";"Three...";"Três..."
+"56a0ae92";"Total Score: %1";"Pontuação Total: %1"
+"57086f4c";"One...";"Um..."
+"580ae5a6";"Two...";"Dois..."
+"5acfb8cf";"My source hasn't brought me anything quite as magical, but my shop does have some rather astonishing new items for your perusal.";"Minha fonte não me trouxe nada tão mágico, mas minha loja tem alguns itens novos e surpreendentes para sua apreciação."
+"5b7b6df8";"Time Remaining: %1:%2";"Tempo Restante: %1:%2"
+"5b81a8c7";"It's a miniature model of a combat arena. Though it seems to have been fashioned out of some kind of clay, it emanates a strong odour of stale blood.";"É uma miniatura de uma arena de combate. Embora pareça ter sido feito de algum tipo de argila, exala um forte odor de sangue velho."
+"5c7fb078";"Mystical Murgo's Mystery Caravan";"Caravana Misteriosa do Murgo Místico"
+"5db21b78";"Captain Teddy";"Capitão Teddy"
+"60aab123";"Henchman Multiplier Up";"Multiplicador de capangas aumentou"
+"63eb6d0b";"Wizard Teddy";"Urso Mágico"
+"65c3481b";"You won't regret it. I hope. But just in case, remember to spend some gold on my other, less unusual items.";"Você não vai se arrepender. Espero. Mas, por precaução, lembre-se de gastar um pouco de ouro nos meus outros itens, menos incomuns."
+"6724b970";"New Total High Score";"Nova Pontuação Total Máxima"
+"6803a570";"Henchman's Chickens Kicked: %1";"Galinhas do Capanga Chutadas: %1"
+"695e359b";"HIT THE FLITSWITCH!";"LIGUE O INTERRUPTOR!"
+"726773d2";"The cursed item cannot be used at this time.";"O item amaldiçoado não pode ser usado neste momento."
+"7525522a";"First Prize";"Primeiro Prêmio"
+"75dee598";"KICK THE CHICKEN!";"CHUTE A FRANGO!"
+"7ce4ce8b";"This is the real future. Her child, not yet born, but destined for greatness.";"Este é o verdadeiro futuro. Seu filho, ainda não nascido, mas destinado à grandeza."
+"7ce5635d";"This is the real future. His child, not yet born, but destined for greatness.";"Este é o verdadeiro futuro. Seu filho, ainda não nascido, mas destinado à grandeza."
+"7cebf262";"Enter the Colosseum";"Entre no Coliseu"
+"7cebf263";"Attack anything that moves!";"Ataque tudo que se move!"
+"7cf28eb8";"Leave the Colosseum.";"Saia do Coliseu."
+"7ef98a98";"Murgo the trader has returned to Bowerstone. What secrets has he brought back with him?";"Murgo, o comerciante, retornou a Bowerstone. Que segredos ele trouxe consigo?"
+"7fabc179";"Hero Multiplier Reset";"Multiplicador de Herói Redefinido"
+"80a68df8";"King Teddy";"Rei Teddy"
+"81c02a48";"Ultimate Prize";"Prêmio Supremo"
+"880c356b";"And remember to keep shopping at Murgo's!";"E lembre-se de continuar comprando na loja do Murgo!"
+"883cc0f1";"Time Remaining: %1:0%2";"Tempo Restante: %1:0%2"
+"8abce729";"Hero Multiplier Up";"Multiplicador de Herói Aumentado"
+"8b0cd55a";"Best of luck, old friend.";"Boa sorte, meu velho amigo."
+"8c108c32";"Time";"Tempo"
+"8c4159e1";"No sign of the vision-granting object as yet, but you're bound to find something else worth your while in my caravan of delights.";"Ainda não há sinal do objeto que concede visão, mas você certamente encontrará algo que valha a pena em minha caravana de delícias."
+"8d132a14";"Hero's Chickens Kicked: %1";"Galinhas do Herói Chutadas: ​​%1"
+"91fc6bf4";"You have won!";"Você venceu!"
+"97520382";""Shoot for the moon. Even if you miss, you'll land amongst the stars." - Mother";""Mire na lua. Mesmo que você erre, você pousará entre as estrelas." - Mãe"
+"976d4d43";"Chicken Bonus";"Bônus de Frango"
+"9a4f5030";"You'll need to achieve the magic score, if of Teddies you want more. Join together my brothers' digits, to activate the final widget.";"Você precisa atingir a pontuação mágica se quiser mais ursinhos de pelúcia. Junte os dígitos dos meus irmãos para ativar o widget final."
+"a3da8cd7";"These are your people. Subjects who fear your wrath . Who bow to your will and obey your every word.";"Este é o seu povo. Súditos que temem a sua ira. Que se curvam à sua vontade e obedecem a cada palavra sua."
+"a572ff92";"Give the snowglobe to Murgo?";"Dar o globo de neve para o Murgo?"
+"ac6fe042";"And this is your throne. Albion's seat of power - where you have made countless decisions, delivered justice and led a nation.";"E este é o seu trono. Sede do poder de Albion - onde você tomou inúmeras decisões, administrou a justiça e liderou uma nação."
+"ae085035";"Hero's Score (x%1): %2";"Pontuação do Herói (x%1): %2"
+"b19273f4";"Makes a nice little souvenir, don't it?";"É uma bela lembrancinha, não é?"
+"b2912162";"Oh, well, isn't that a thrill? Not a trace of cursing on that snowglobe.";"Ah, que emocionante! Nem um vestígio de palavrão naquele globo de neve."
+"b5bee8d3";"This Teddy distills the essence of the Theodore brothers: Augustus, Alvin and Ambrose. Only a Colosseum champion may hold it.";"Este Teddy destila a essência dos irmãos Theodore: Augustus, Alvin e Ambrose. Somente um campeão do Coliseu pode empunhá-lo."
+"b73cb1b3";"Henchman's Creature Kills: %1";"Criatura do Capanga Mata : %1"
+"b84ffcf8";"Hero's Score: %1
+Henchman's Score: %2
+Total Score: %3
+
+Hero's High Score: %4
+Henchman's High Score: %5
+Total High Score: %6
+
+Hero's Creature Kills: %7
+Henchman's Creature Kills: %8";"Pontuação do Herói: %1
+Pontuação do Capanga: %2
+Pontuação Total: %3
+
+Pontuação Máxima do Herói: %4
+Pontuação Máxima do Capanga: %5
+Pontuação Máxima Total: %6
+
+Abates de Criaturas do Herói: %7
+Abates de Criaturas do Capanga: %8"
+"ba7e0c51";"These are his people. Subjects who worship him. Who trust him to guide them, protect them and govern them.";"Este é o povo dele. Súditos que o veneram. Aqueles que confiam nele para guiá-los, protegê-los e governá-los."
+"c1a88b05";"Give the skull to Murgo?";"Dar o crânio para Murgo?"
+"c65a9068";"Genuine flying brooms! Built by expert witches using only the most aerodynamic bristles! Throw one off a cliff and watch it dive to the ground!";"Vassouras voadoras de verdade! Construídas por bruxas experientes usando apenas as cerdas mais aerodinâmicas! Jogue uma de um penhasco e veja-a mergulhar no chão!"
+"c75c6181";"Special offer on magic apples! You never know what you'll find inside! Half a worm? A whole worm? Two worms? Take a bite today and find out!";"Oferta especial de maçãs mágicas! Você nunca sabe o que vai encontrar dentro! Meia minhoca? Uma minhoca inteira? Duas minhocas? Dê uma mordida hoje e descubra!"
+"c805e58c";"These are your men. Loyal soldiers who would die for you.";"Estes são os seus homens. Soldados leais que morreriam por você."
+"c85aa933";"Try our amazing new toothbrushes! Guaranteed to polish your smile to the purest white. Not recommended for anyone with chalk allergies!";"Experimente nossas novas escovas de dente incríveis! Garantimos que seu sorriso ficará branco como a neve. Não recomendado para pessoas com alergia a giz!"
+"cb5a2f10";"Amaze your friends by using our fabulous new invisible ink! Please remember the pen is also invisible and easily misplaced.";"Impressione seus amigos usando nossa nova e fabulosa tinta invisível! Lembre-se que a caneta também é invisível e fácil de perder."
+"cc5bb7f8";"Are you a shy, retiring individual? Are you invisible to your boss, co-workers and potential life-mates? Then try my patented cymbal pants - and never be ignored again!";"Você é uma pessoa tímida e reservada? É invisível para seu chefe, colegas de trabalho e potenciais parceiros de vida? Então experimente minhas calças com pratos patenteadas - e nunca mais seja ignorado!"
+"cd5bbd5a";"The secret of eternal life, available for just a handful of gold! I'll even throw in the secret of fraudulent advertising, for free!";"O segredo da vida eterna, disponível por apenas algumas moedas de ouro! Vou incluir até o segredo da publicidade enganosa, de graça!"
+"cf966c4e";"Henchman Multiplier Reset";"Multiplicador de Capangas Reiniciado"
+"d0d92d80";"And this is your throne. Albion's seat of power, where you have made countless decisions, delivered brutal justice and declared wars.";"E este é o seu trono. A sede do poder de Albion, onde você tomou inúmeras decisões, proferiu uma justiça brutal e declarou guerras."
+"d1dd19e8";"You have failed.";"Vocês falharam."
+"d96bd5f8";"Flitswitch Bonus";"Bônus Flitswitch"
+"dbc0249b";"Bonus Points";"Pontos de Bônus"
+"e6d8cbae";"These are your people. Subjects who worship you. Who trust you to guide them, protect them and govern them.";"Este é o seu povo. Súditos que o veneram. Que confiam em você para guiá-los, protegê-los e governá-los."
+"ed080acc";"New Henchman High Score";"Nova Pontuação Máxima de Capanga"
+"f002dda0";"The Colosseum";"O Coliseu"
+"f3dd2cf4";"Score: %1";"Pontuação: %1"
+"f3e270a8";"And this is his throne. Albion's seat of power, where he has made countless decisions, delivered justice and led a nation.";"E este é o trono dele. A sede do poder de Albion, onde ele tomou inúmeras decisões, administrou a justiça e liderou uma nação."
+"f3e40e60";"And this is her throne. Albion's seat of power, where she has made countless decisions, delivered justice and led a nation.";"E este é o trono dela. A sede do poder de Albion, onde ela tomou inúmeras decisões, administrou a justiça e liderou uma nação."
+"f7802fc3";"This cute little fellow represents the youngest of the three founding brothers of the Colosseum, Ambrose Theodore. Though a terrible architect and useless at almost everything else too, he believed himself to be an important captain of industry, and his brothers were willing to indulge his fantasy.";"Este simpático homenzinho representa o caçula dos três irmãos fundadores do Coliseu, Ambrose Theodore. Embora um arquiteto terrível e inútil em quase tudo o mais, ele se considerava um importante magnata da indústria, e seus irmãos estavam dispostos a alimentar sua fantasia."
+"fa43bb1a";"Follow the breadcrumb trail to leave the Colosseum, or press <a_img> to start another tournament.";"Siga o rastro de migalhas de pão para sair do Coliseu ou pressione <a_img> para iniciar outro torneio."
+"fb5cf9b4";"Hero's High Score: %1";"Pontuação Máxima do Herói: %1"
+"feb15214";"Hero's Score In All Games: %1
+Henchman's Score In All Games: %2
+Total Score In All Games: %3
+
+Number Of Completed Colosseum Games: %4
+Total Gold Earned: %5
+Fewest Number Of Hero's Knockdowns: %6
+Fewest Number Of Henchman's Knockdowns: %7";"Pontuação do Herói em Todas as Partidas: %1
+Pontuação do Capanga em Todas as Partidas: %2
+Pontuação Total em Todas as Partidas: %3
+
+Número de Partidas Concluídas no Coliseu: %4
+Total de Ouro Ganho: %5
+Menor Número de Derrubadas do Herói: %6
+Menor Número de Derrubadas do Capanga: %7"
+"ffa4d098";"And this is her throne. Albion's seat of power - where she has made countless decisions, delivered brutal justice and declared wars.";"E este é o trono dela. A sede do poder de Albion - onde ela tomou inúmeras decisões, aplicou justiça brutal e declarou guerras."
+"ffa529be";"And this is his throne. Albion's seat of power - where he has made countless decisions, delivered brutal justice and declared wars.";"E este é o trono dele. A sede do poder de Albion - onde ele tomou inúmeras decisões, aplicou justiça brutal e declarou guerras."
